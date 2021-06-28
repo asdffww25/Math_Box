@@ -1,0 +1,29 @@
+[33mcommit 6a7b9b396072ef7746e6786a83ec04a8b8f1b349[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: asdffww25 <86523413+asdffww25@users.noreply.github.com>
+Date:   Sat Jun 26 23:41:06 2021 +0900
+
+    Make README.md look nice
+
+[33mcommit 5c78a5662834c560c2244f9a55dd9110c548b270[m
+Author: asdffww25 <86523413+asdffww25@users.noreply.github.com>
+Date:   Sat Jun 26 23:12:37 2021 +0900
+
+    Add the info of calculator.py in README.md
+
+[33mcommit fa8b062c9669371791afdd8cf1fa4a98a2485b5f[m
+Author: mhk <asdffww25@naver.com>
+Date:   Sat Jun 26 23:07:24 2021 +0900
+
+    Create README.md
+
+[33mcommit d72f97e9d0bdbf1e980491578947aac6f7b7cd35[m
+Author: mhk <asdffww25@naver.com>
+Date:   Fri Jun 25 20:03:04 2021 +0900
+
+    Add title comment and Create meeting-log
+
+[33mcommit bab98900cee1ccee6f73333b845f27b402157819[m
+Author: mhk <asdffww25@naver.com>
+Date:   Fri Jun 25 18:19:07 2021 +0900
+
+    Create calculator.py and License
